@@ -1,2 +1,2 @@
 PORTFOLIO
-https://shre-yansh.github.io/Portfolio/
+https://jt6049.github.io/portfolio/
